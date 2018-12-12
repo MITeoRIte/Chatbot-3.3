@@ -125,8 +125,6 @@ EMAIL_HOST_USER = 'weiyuxinexponential@gmail.co'
 EMAIL_HOST_PASSWORD = 'mcONLINE123'
 EMAIL_PORT = 587  # alternatively: 2525 or 80
 EMAIL_USE_TLS = True
-API_KEY="api-D887B4D6FDDB11E897EDF23C91C88F4E"
-SMTP2GO_API_KEY="api-D887B4D6FDDB11E897EDF23C91C88F4E"
 
 # Django defaults to this backend, but if you'd like to be explicit:
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
